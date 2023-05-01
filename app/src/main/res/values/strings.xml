@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business App</string>
+    <string name="searchbar_hint">Enter : Location</string>
+    <string name="content_description_media">this image</string>
+    <string name="title">Name Businees</string>
+    <string name="secondary_text">Rating</string>
+    <string name="supporting_text">Price</string>
+    <string name="dollar">$</string>
+</resources>
